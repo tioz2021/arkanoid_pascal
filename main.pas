@@ -1,4 +1,11 @@
 program ArkanoidGame;
+
+uses crt;
+
+var
+    x, y: integer;
 begin
-    write('the game');
+
+    writeln('the game');
+
 end.
